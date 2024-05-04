@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Designer-portfolio/static/css/main.1b0ace96.chunk.css",
+    "main.js": "/Designer-portfolio/static/js/main.cb3a8992.chunk.js",
+    "main.js.map": "/Designer-portfolio/static/js/main.cb3a8992.chunk.js.map",
+    "runtime-main.js": "/Designer-portfolio/static/js/runtime-main.75c7d803.js",
+    "runtime-main.js.map": "/Designer-portfolio/static/js/runtime-main.75c7d803.js.map",
+    "static/css/2.c9423f95.chunk.css": "/Designer-portfolio/static/css/2.c9423f95.chunk.css",
+    "static/js/2.3ba7dad9.chunk.js": "/Designer-portfolio/static/js/2.3ba7dad9.chunk.js",
+    "static/js/2.3ba7dad9.chunk.js.map": "/Designer-portfolio/static/js/2.3ba7dad9.chunk.js.map",
+    "static/js/3.1f3202c0.chunk.js": "/Designer-portfolio/static/js/3.1f3202c0.chunk.js",
+    "static/js/3.1f3202c0.chunk.js.map": "/Designer-portfolio/static/js/3.1f3202c0.chunk.js.map",
+    "index.html": "/Designer-portfolio/index.html",
+    "static/css/2.c9423f95.chunk.css.map": "/Designer-portfolio/static/css/2.c9423f95.chunk.css.map",
+    "static/css/main.1b0ace96.chunk.css.map": "/Designer-portfolio/static/css/main.1b0ace96.chunk.css.map",
+    "static/js/2.3ba7dad9.chunk.js.LICENSE.txt": "/Designer-portfolio/static/js/2.3ba7dad9.chunk.js.LICENSE.txt",
+    "static/media/about-image.272cfb94.jpg": "/Designer-portfolio/static/media/about-image.272cfb94.jpg",
+    "static/media/city-guide-app.cd4273ef.png": "/Designer-portfolio/static/media/city-guide-app.cd4273ef.png",
+    "static/media/logo.86a23878.PNG": "/Designer-portfolio/static/media/logo.86a23878.PNG",
+    "static/media/netflix.27c5d2da.png": "/Designer-portfolio/static/media/netflix.27c5d2da.png",
+    "static/media/task-manager.2ac666db.png": "/Designer-portfolio/static/media/task-manager.2ac666db.png",
+    "static/media/testimonial-1.c45b7026.jpg": "/Designer-portfolio/static/media/testimonial-1.c45b7026.jpg",
+    "static/media/testimonial-2.f96c7d79.jpg": "/Designer-portfolio/static/media/testimonial-2.f96c7d79.jpg",
+    "static/media/testimonial-3.8583592c.jpg": "/Designer-portfolio/static/media/testimonial-3.8583592c.jpg",
+    "static/media/testimonial-4.f5307f5b.jpg": "/Designer-portfolio/static/media/testimonial-4.f5307f5b.jpg",
+    "static/media/testimonial-5.e6222861.jpg": "/Designer-portfolio/static/media/testimonial-5.e6222861.jpg",
+    "static/media/App.css": "/Designer-portfolio/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75c7d803.js",
+    "static/css/2.c9423f95.chunk.css",
+    "static/js/2.3ba7dad9.chunk.js",
+    "static/css/main.1b0ace96.chunk.css",
+    "static/js/main.cb3a8992.chunk.js"
+  ]
+}
